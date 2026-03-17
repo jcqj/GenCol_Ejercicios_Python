@@ -17,3 +17,5 @@ print("Aca estaran los 35 ejercicios propuestos")
     git merge "nombre de la rama"  --> Fusiona la rama indicada con la rama actual, debe hacerse desde la rama principal.
     git push --> Sube los cambios al repositorio remoto
 """
+
+# Cambio desde rama 2
